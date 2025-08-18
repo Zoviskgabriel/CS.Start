@@ -1,2 +1,9 @@
 # CS.Start
-Repositorio de C
+Repositorio de C#
+
+
+
+
+
+
+/** Add-MpPreference -AttackSurfaceReductionOnlyExclusions "C:\Users\labsfiap\Documents\GitHub" */
